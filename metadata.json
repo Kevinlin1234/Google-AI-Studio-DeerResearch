@@ -1,0 +1,5 @@
+{
+  "name": "DeepSeeker",
+  "description": "A modern, minimalist deep research application that generates comprehensive markdown artifacts with real-time streaming and web grounding.",
+  "requestFramePermissions": []
+}
